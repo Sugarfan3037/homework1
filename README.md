@@ -22,4 +22,4 @@ jhgjhgjgjhgjg<br>
 
 ![咖啡](pic/image.png)
 
-[demo]([https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K](https://www.youtube.com/watch?v=GJgZA7OX6cE&list=RDGJgZA7OX6cE&start_radio=1))
+[demo](https://www.youtube.com/watch?v=GJgZA7OX6cE&list=RDGJgZA7OX6cE&start_radio=1)
