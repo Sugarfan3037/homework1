@@ -20,6 +20,6 @@ jhgjhgjgjhgjg<br>
 [講義](t/JAVA練習題目.md)
 
 
-![咖啡](pic/coffee.JPG)
+![咖啡](pic/image.png)
 
 [demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
