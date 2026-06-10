@@ -17,7 +17,7 @@ jhgjhgjgjhgjg<br>
 [yahoo](http://tw.yahoo.com)
 
 
-[講義](t/題目1.doc)
+[講義](t/題目1.docx)
 
 
 ![咖啡](pic/coffee.JPG)
